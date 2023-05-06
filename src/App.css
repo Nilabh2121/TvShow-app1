@@ -1,0 +1,45 @@
+/* Global styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url('../../tvshow-app/src/img/MovieBg1.jpeg');
+}
+
+
+/* Home styles */
+.container {
+  max-width: 800px;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+/* Details styles */
+.card {
+  max-width: 800px;
+  margin: 2px auto;
+}
+
+.card-header {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.card-text {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  text-align: center;
+  font-weight: bold;
+  margin: 1rem;
+  color: rgb(226, 43, 171);
+}
+
+.card-text strong {
+  font-weight: bold;
+}
+
+.card1{
+  max-width: 800px;
+  margin: 2px auto;
+}

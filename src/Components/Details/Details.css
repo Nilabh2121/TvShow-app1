@@ -1,0 +1,161 @@
+.container1 mt-5{
+    display: flex;
+    flex-direction: column;
+    max-width: 130vh;
+    margin: 0 auto;
+    padding: 1rem;
+
+}
+.col-md-4 mb-4{
+    margin-top: 2rem;
+    background-color: peachpuff;
+    border-radius: 18px;
+    box-shadow: 15px 13px 12px rgba(3, 2, 6, 0.941);
+    overflow: hidden;
+    transition: float 0.5s ease;
+}
+
+.col-md-8{
+    display: flex;
+    font-size: 5rem
+}
+
+
+
+
+
+
+
+/* CSS for Modal */
+.modal-content {
+    border-radius: 12px;
+    border: none;
+    gap: 2rem;
+  }
+  
+  .modal-header {
+    
+    border-radius: 18px;
+    background-color: #000000;
+    box-shadow:15px 13px 12px rgba(3, 2, 6, 0.941); ;
+    color: #f6f3f3;
+    border-bottom: none;
+    margin-top: 1rem;
+    margin-left: 4rem;
+    width:18rem;
+    height: 3rem;
+  
+  }
+  
+  .modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-left:1.1rem;
+  }
+  
+  .modal-body {
+    padding: 1rem 2rem;
+  }
+  
+  .modal-footer {
+    border-top: none;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    justify-content: space-between;
+    
+  }
+  
+  .form-label {
+    font-weight: bold;
+    
+    justify-content: center;
+
+  }
+  
+  .form-control {
+    border-radius: 15px;
+   
+    justify-content: center;
+    
+    
+  }
+  
+  
+.form{
+  text-align: center;
+  font-size: 2rem;
+  border-radius: 30px;
+}
+
+.card1 {
+  display: flex;
+  margin-top: 2rem;
+  background-image: linear-gradient(#8ec5fc , #E0C3FC);
+  border-radius: 18px;
+  box-shadow: 15px 13px 12px rgba(3, 2, 6, 0.941);
+  overflow: hidden;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: solid 2px;
+  transition: float 0.5s ease;
+  text-size-adjust: 4rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  width:60rem ;
+  
+}
+
+
+.card2{
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  margin-left: 32rem;
+  height: 19rem;
+  width: 26rem;
+  background-image: linear-gradient(#d268e5 , #05e3be);
+  border-radius: 15px;
+  box-shadow: 15px 13px 12px rgba(3, 2, 6, 0.941);
+  overflow: hidden;
+  justify-content: center;
+  text-align: center;
+  transition: float 0.5s ease;
+  gap: 2rem;
+}
+
+.m-button1{
+  display: flex;
+  background-image: linear-gradient(#8ec5fc , #E0C3FC);
+  justify-content: center;
+  border: 2px solid #E0C3FC;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.984);
+  padding: 2px 2px 2px 5px;
+  margin-top: 0.6rem;
+  margin-bottom: 0.8rem;
+  margin-left: 2.7rem;
+  height: 2.7rem;
+  width: 9rem;
+  border-radius: 33px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.m-button3{
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  color: white;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.984);
+  padding: 2px 2px 2px 5px;
+  margin-top: 0.6rem;
+  margin-bottom: 2rem;
+  margin-left: 7rem;
+  height: 2.7rem;
+  width: 9rem;
+  border-radius: 33px;
+  text-align: center;
+  font-weight: bold;
+}
